@@ -1,4 +1,4 @@
-# navalny_study_reproduction
+# NavalnyResearchCheck
 Trying to reproduce the results from https://www.kyivpost.com/analysis/20577
 
 Main research notebook: [NavalnyResearchCheck.ipynb](https://github.com/religofsil/NavalnyResearchCheck/blob/main/NavalnyResearchCheck.ipynb).
