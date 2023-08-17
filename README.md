@@ -5,4 +5,4 @@ Main research notebook: [NavalnyResearchCheck.ipynb](https://github.com/religofs
 
 This is a draft, pull requests are welcome.
 
-[https://twitter.com/religofsil/status/1691786130847338572](Twitter tread) about kyivpost article + interpretation of NavalnyResearchCheck results.
+[Twitter tread](https://twitter.com/religofsil/status/1691786130847338572) about kyivpost article + interpretation of NavalnyResearchCheck results.
